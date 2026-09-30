@@ -3,11 +3,11 @@
 "ads": [
 {
 "id": "discover-001",
-"placement": "discover_carousel",
+"placement": "sidebar_header",
 "title": "热门作品推荐",
 "description": "精选优质内容，每周持续更新",
 "buttonText": "查看详情",
-"imageUrl": "https://www.bowumi.com/wp-content/uploads/tupianbd/2/253/1205803863/1877156167.jpg",
+"imageUrl": "https://p6.itc.cn/q_70/images03/20230312/4faa780407204bedaa0802f39027d0c7.png",
 "actionType": "url",
 "targetUrl": "https://example.com/activity",
 "openMode": "external",
@@ -16,7 +16,7 @@
 },
 {
 "id": "discover-002",
-"placement": "discover_carousel",
+"placement": "sidebar_header",
 "title": "热门作品推荐",
 "description": "精选优质内容，每周持续更新",
 "buttonText": "查看详情",
