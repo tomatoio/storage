@@ -1,1 +1,9 @@
-
+{
+  "schemaVersion": 1,
+  "subscriptions": [
+    {"name": "示例订阅", "url": "https://raw.githubusercontent.com/qucomic/ikan_source/refs/heads/main/rule_example/all.json"}
+  ],
+  "liveSources": [
+    {"name": "示例直播源", "url": "https://iptv-org.github.io/iptv/countries/tw.m3u"}
+  ]
+}
