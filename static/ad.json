@@ -55,15 +55,6 @@
 "enabled": true
 },
 {
-"id": "detail-001",
-"placement": "detail_card",
-"imageUrl": "https://www.bowumi.com/wp-content/uploads/tupianbd/2/253/1205803863/1877156167.jpg",
-"targetUrl": "https://example.com/activity/3",
-"title": "热门作品限时畅读",
-"description": "精选优质内容，每周持续更新",
-"buttonText": "查看详情"
-},
-{
 "id": "splash-001",
 "placement": "app_splash",
 "enabled": true,
