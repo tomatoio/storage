@@ -1,0 +1,69 @@
+{
+"schemaVersion": 1,
+"ads": [
+{
+"id": "discover-001",
+"placement": "discover_carousel",
+"title": "热门作品推荐",
+"description": "精选优质内容，每周持续更新",
+"buttonText": "查看详情",
+"imageUrl": "https://www.bowumi.com/wp-content/uploads/tupianbd/2/253/1205803863/1877156167.jpg",
+"actionType": "url",
+"targetUrl": "https://example.com/activity",
+"openMode": "external",
+"enabled": true,
+"priority": 100
+},
+{
+"id": "discover-002",
+"placement": "discover_carousel",
+"title": "热门作品推荐",
+"description": "精选优质内容，每周持续更新",
+"buttonText": "查看详情",
+"imageUrl": "https://photo.16pic.com/00/53/26/16pic_5326745_b.jpg",
+"actionType": "url",
+"targetUrl": "https://example.com/activity",
+"openMode": "external",
+"enabled": true,
+"priority": 100
+},
+{
+"id": "search-001",
+"placement": "search_result",
+"title": "热门作品推荐",
+"description": "精选优质内容，每周持续更新",
+"buttonText": "查看详情",
+"imageUrl": "https://www.bowumi.com/wp-content/uploads/tupianbd/2/253/3968619070/591924046.jpg",
+"actionType": "url",
+"targetUrl": "https://example.com/activity",
+"position": 3,
+"openMode": "external",
+"enabled": true
+},
+{
+"id": "search-002",
+"placement": "search_result",
+"title": "热门作品推荐",
+"description": "精选优质内容，每周持续更新",
+"buttonText": "查看详情",
+"imageUrl": "https://s1.aigei.com/src/img/jpg/e9/e9fd6a7e5e1345a2944549c310bff774.jpg?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:qhbL036eisxLLVr3RYPBOsALsdM=",
+"actionType": "url",
+"targetUrl": "https://example.com/activity",
+"position": 3,
+"openMode": "in_app",
+"enabled": true
+},
+{
+"id": "splash-001",
+"placement": "app_splash",
+"enabled": true,
+"imageUrl": "https://img.magnific.com/premium-photo/girl-bicycle_1116086-3161.jpg",
+"targetUrl": "https://example.com/activity",
+"openMode": "external",
+"buttonText": "查看详情",
+"durationSeconds": 5,
+"skipAfterSeconds": 5,
+"priority": 100
+}
+]
+}
